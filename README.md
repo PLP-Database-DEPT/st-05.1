@@ -62,7 +62,7 @@
     * Entry: `calculator.js` provided, Jest installed.
     * Exit: All tests pass.
 * **Tools:**
-    * From the PDF: Name 2 project management tools, and 2 test automation tools.
+    * From the Slides PDF: Name 2 project management tools, and 2 test automation tools.
 
 ---
 
